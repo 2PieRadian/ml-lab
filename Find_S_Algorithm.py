@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("C:\\Users\\RAMAN\\OneDrive\\Desktop\\finds.csv")
+data = pd.read_csv("./datasets/find_s.csv")
 
 print(data)
 
