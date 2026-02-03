@@ -2,8 +2,6 @@ import pandas as pd
 
 data = pd.read_csv("./datasets/find_s.csv")
 
-print(data)
-
 hypothesis = None
 
 for index, row in data.iterrows():
